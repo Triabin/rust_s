@@ -1,6 +1,6 @@
-[submodule "dart_s_lib"]
-	path = dart_s_lib
-	url = git@github.com:Triabin/dart_s_lib.git
-[submodule "dart_s_main"]
-	path = dart_s_main
-	url = git@github.com:Triabin/dart_s_main.git
+[submodule "rust_s_lib"]
+	path = rust_s_lib
+	url = git@github.com:Triabin/rust_s_lib.git
+[submodule "rust_s_main"]
+	path = rust_s_main
+	url = git@github.com:Triabin/rust_s_main.git
