@@ -1,6 +1,6 @@
 [submodule "rust_s_lib"]
 	path = rust_s_lib
-	url = git@github.com:Triabin/rust_s_lib.git
+	url = https://github.com/Triabin/rust_s_lib.git
 [submodule "rust_s_main"]
 	path = rust_s_main
-	url = git@github.com:Triabin/rust_s_main.git
+	url = https://github.com/Triabin/rust_s_main.git
